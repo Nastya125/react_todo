@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_todo/static/css/main.cacd04db.css",
+    "main.js": "/react_todo/static/js/main.0835954e.js",
+    "index.html": "/react_todo/index.html",
+    "main.cacd04db.css.map": "/react_todo/static/css/main.cacd04db.css.map",
+    "main.0835954e.js.map": "/react_todo/static/js/main.0835954e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cacd04db.css",
+    "static/js/main.0835954e.js"
+  ]
+}
